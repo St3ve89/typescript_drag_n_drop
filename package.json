@@ -1,0 +1,20 @@
+{
+  "name": "typescript_drag_n_drop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/St3ve89/typescript_drag_n_drop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/St3ve89/typescript_drag_n_drop/issues"
+  },
+  "homepage": "https://github.com/St3ve89/typescript_drag_n_drop#readme"
+}
