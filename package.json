@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/St3ve89/typescript_drag_n_drop/issues"
   },
-  "homepage": "https://github.com/St3ve89/typescript_drag_n_drop#readme"
+  "homepage": "https://github.com/St3ve89/typescript_drag_n_drop#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
 }
